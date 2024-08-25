@@ -1,0 +1,7 @@
+{
+"studentsList": [
+    { "stuID": "1", "name": "sahar", "family": "jodat", "major": "IT" },
+    { "stuID": "2", "name": "ali", "family": "zareh", "major": "software" },
+    { "stuID": "3", "name": "amir", "family": "fazlali", "major": "network" }
+  ]
+}
