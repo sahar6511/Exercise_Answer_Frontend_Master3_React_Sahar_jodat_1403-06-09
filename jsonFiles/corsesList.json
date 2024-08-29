@@ -1,34 +1,28 @@
 {
-    "corsesList":[
-        {
-            "id": "",
-            "corse": "",
-            "vahed":""
-        },
-        {
-            "id": "C001",
-            "corse": "HTML",
-            "vahed":"2"
-        },
-        {
-            "id": "C002",
-            "corse": "JAVA",
-            "vahed":"3"
-        },
-        {
-            "id": "C003",
-            "corse": "CSS",
-            "vahed":"2"
-        },
-        {
-            "id": "C004",
-            "corse": "REACT",
-            "vahed":"4"
-        },
-        {
-            "id": "C005",
-            "corse": "JAVASCRIPT",
-            "vahed":"3"
-        }
-    ]
+  "corsesList": [
+    {
+      "id": "C001",
+      "courseName": "HTML",
+      "vahed": "2",
+      "teacherFamily": "شکری"
+    },
+    {
+      "id": "C002",
+      "courseName": "JAVA",
+      "vahed": "3",
+      "teacherFamily": "طاهری"
+    },
+    {
+      "id": "C003",
+      "courseName": "CSS",
+      "vahed": "2",
+      "teacherFamily": "میرزایی"
+    },
+    {
+      "id": "C004",
+      "courseName": "REACT",
+      "vahed": "4",
+      "teacherFamily": "عباسی"
+    }
+  ]
 }
