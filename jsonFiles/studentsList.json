@@ -1,7 +1,58 @@
 {
-"studentsList": [
-    { "stuID": "1", "name": "sahar", "family": "jodat", "major": "IT" },
-    { "stuID": "2", "name": "ali", "family": "zareh", "major": "software" },
-    { "stuID": "3", "name": "amir", "family": "fazlali", "major": "network" }
+  "studentsList": [
+    {
+      "id": "2",
+      "name": "علی",
+      "family": "زارع",
+      "major": "نرم افزار"
+    },
+    {
+      "id": "3",
+      "name": "امیر",
+      "family": "فضلعلی",
+      "major": "شبکه"
+    },
+    {
+      "id": "4",
+      "name": "حسن",
+      "family": "بیانی",
+      "major": "مکانیک"
+    },
+    {
+      "id": "5",
+      "name": "شیما",
+      "family": "رضایی",
+      "major": "فناوری اطلاعات"
+    },
+    {
+      "id": "6",
+      "name": "مهدی",
+      "family": "عباسی",
+      "major": "نرم افزار"
+    },
+    {
+      "id": "7",
+      "name": "آرش",
+      "family": "برزگر",
+      "major": "نرم افزار"
+    },
+    {
+      "id": "8",
+      "name": "سیما",
+      "family": "حیدری",
+      "major": "نرم افزار"
+    },
+    {
+      "id": "5bc9",
+      "name": "سحر",
+      "family": "جودت",
+      "major": "فناوری اطلاعات"
+    },
+    {
+      "id": "1b24",
+      "name": "jj",
+      "family": "hh",
+      "major": "نرم افزار"
+    }
   ]
 }

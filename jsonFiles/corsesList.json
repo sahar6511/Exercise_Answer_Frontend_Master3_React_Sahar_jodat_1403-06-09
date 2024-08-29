@@ -1,0 +1,34 @@
+{
+    "corsesList":[
+        {
+            "id": "",
+            "corse": "",
+            "vahed":""
+        },
+        {
+            "id": "C001",
+            "corse": "HTML",
+            "vahed":"2"
+        },
+        {
+            "id": "C002",
+            "corse": "JAVA",
+            "vahed":"3"
+        },
+        {
+            "id": "C003",
+            "corse": "CSS",
+            "vahed":"2"
+        },
+        {
+            "id": "C004",
+            "corse": "REACT",
+            "vahed":"4"
+        },
+        {
+            "id": "C005",
+            "corse": "JAVASCRIPT",
+            "vahed":"3"
+        }
+    ]
+}
