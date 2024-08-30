@@ -1,0 +1,32 @@
+{
+  "courseSelection": [
+    {
+      "id": "2",
+      "studentId": "2",
+      "courseID": "C001",
+      "courseName": "HTML",
+      "vahed": "2"
+    },
+    {
+      "id": "3",
+      "studentId": "3",
+      "courseID": "C001",
+      "courseName": "HTML",
+      "vahed": "2"
+    },
+    {
+      "id": "3",
+      "studentId": "3",
+      "courseID": "C004",
+      "courseName": "REACT",
+      "vahed": "4"
+    },
+    {
+      "id": "3",
+      "studentId": "3",
+      "courseID": "C002",
+      "courseName": "JAVA",
+      "vahed": "3"
+    }
+  ]
+}
